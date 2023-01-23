@@ -1,1 +1,4 @@
 monday class
+moving and renaming file in git .
+commanf=d to remove any file using in the git 
+git rm (file name)
