@@ -4,3 +4,8 @@ commanf=d to remove any file using in the git
 git rm (file name)
 renaming  of 1 file name to another file name 
 command  -- git mu- (file name ) new file
+
+command to put back the file into untrack mode
+git rm --cached  
+
+unstaging files in git
