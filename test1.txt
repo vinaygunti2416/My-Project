@@ -9,3 +9,13 @@ command to put back the file into untrack mode
 git rm --cached  
 
 unstaging files in git
+
+
+unmodifing file in git
+comm----> git checkout --(file name)
+
+
+creating branches in git
+command ---> git checkout -b (branch name)
+
+switch ----> git checkout master(only switch )
