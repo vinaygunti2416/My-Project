@@ -39,4 +39,4 @@ git branch -D branch_name
 pushing git branches to remote repo
 git push -u origin (branch name)
 
-
+git push -d origin (branch name ) ---- branch delete online and offline
