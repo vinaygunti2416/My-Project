@@ -21,6 +21,22 @@ command ---> git checkout -b (branch name)
 switch ----> git checkout master(only switch )
 
 branch merging and resoliving 
+git merge (branch name )
  
- rm -rf .git ----- clear .git file
+rm -rf .git ----- clear .git file
  
+ 
+ 
+git branch --merged
+git branch --no-merged
+
+How to delete a branch 
+
+git branch -d branch_name 
+
+git branch -D branch_name 
+
+pushing git branches to remote repo
+git push -u origin (branch name)
+
+
