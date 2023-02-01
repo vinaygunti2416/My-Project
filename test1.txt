@@ -18,6 +18,8 @@ comm----> git checkout --(file name)
 creating branches in git
 command ---> git checkout -b (branch name)
 
+git log --oneline(check status in one line)
+
 switch ----> git checkout master(only switch )
 
 branch merging and resoliving 
@@ -40,3 +42,9 @@ pushing git branches to remote repo
 git push -u origin (branch name)
 
 git push -d origin (branch name ) ---- branch delete online and offline
+
+#reset 
+git commit -a -m " massege"(add and commit both )
+
+vi (file_name ) for insert (i) and esc , for quit :qw
+
