@@ -44,6 +44,7 @@ git push -u origin (branch name)
 git push -d origin (branch name ) ---- branch delete online and offline
 
 #reset 
+comm---->git reset --hard head~1
 git commit -a -m " massege"(add and commit both )
 
 vi (file_name ) for insert (i) and esc , for quit :qw
