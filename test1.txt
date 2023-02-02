@@ -49,3 +49,16 @@ git commit -a -m " massege"(add and commit both )
 
 vi (file_name ) for insert (i) and esc , for quit :qw
 
+#revert
+git revert < file hash code>
+
+#git reset shift pointer (it remove the commit)
+#git revert---it add additionl commit that is opposite to commit
+
+git reset soft == it does not touch the index file or the working tree at all (but reset
+
+git mixed -- it reset the index but not be working tree .
+
+
+
+
