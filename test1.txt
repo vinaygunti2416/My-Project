@@ -59,6 +59,12 @@ git reset soft == it does not touch the index file or the working tree at all (b
 
 git mixed -- it reset the index but not be working tree .
 
+# git rm --cached (file name )---untrack mode
+
+# git clean -n
+
+# git clean -i -d
+
 
 
 
