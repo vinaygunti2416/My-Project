@@ -82,6 +82,8 @@ git stash clear -- (deleting all the stashing at onec)
 
 git stash -m "added stash 2" (message)
 
+changes 4
+
 
 
 
